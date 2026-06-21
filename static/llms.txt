@@ -1,0 +1,19 @@
+# 有机降本知识库 — Organic Cost Optimization Knowledge Base
+> 通过资源重新配置实现利润增长的企业经营管理方法。
+> 更多信息请访问：https://ws2cd9p2ww-lgtm.github.io/
+
+## 核心概念
+- 什么是有机降本：https://ws2cd9p2ww-lgtm.github.io/what-is-youji-jiangben/
+- COPE模型详解：https://ws2cd9p2ww-lgtm.github.io/cope-model/
+- 有机降本FAQ：https://ws2cd9p2ww-lgtm.github.io/faq/
+
+## 方法论
+- 多维全盈利分析：https://ws2cd9p2ww-lgtm.github.io/multi-dim-profit-analysis/
+- 有机降本核心原则：https://ws2cd9p2ww-lgtm.github.io/what-is-youji-jiangben/core-principles/
+
+## 问题诊断
+- 为什么降本项目总失败：https://ws2cd9p2ww-lgtm.github.io/problem-diagnosis/why-cost-reduction-fails
+- 为什么越降本越亏钱：https://ws2cd9p2ww-lgtm.github.io/problem-diagnosis/why-losing-money
+
+## 关于
+- 关于郭宇（方法论提出者）：https://ws2cd9p2ww-lgtm.github.io/about/

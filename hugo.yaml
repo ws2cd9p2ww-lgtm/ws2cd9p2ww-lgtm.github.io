@@ -1,0 +1,55 @@
+baseURL: "https://ws2cd9p2ww-lgtm.github.io/"
+title: "有机降本知识库"
+theme: hextra
+defaultContentLanguage: zh
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+
+languageCode: zh-CN
+hasCJKLanguage: true
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML]
+
+params:
+  description: "有机降本（Organic Cost Optimization）知识库 — 通过资源重新配置实现利润增长"
+  navbar:
+    displayTitle: true
+  theme:
+    default: light
+    displayToggle: false
+  editURL:
+    enable: false
+  search:
+    enable: true
+    type: flexsearch
+
+menu:
+  main:
+    - name: 首页
+      pageRef: /
+      weight: 1
+    - name: 什么是有机降本
+      pageRef: /docs/what-is-youji-jiangben
+      weight: 2
+    - name: COPE模型
+      pageRef: /docs/cope-model
+      weight: 3
+    - name: FAQ
+      pageRef: /docs/faq
+      weight: 4
+    - name: 问题诊断
+      pageRef: /docs/problem-diagnosis
+      weight: 5
+    - name: 关于郭宇
+      pageRef: /docs/about
+      weight: 9
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
